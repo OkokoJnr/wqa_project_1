@@ -1,0 +1,701 @@
+property_type,place_with_parent_names,lat-lon,area_m2,price_usd
+apartment,|México|Estado de México|City|Neighborhood|,nan,324.7,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"25.31535,-90.159937",120.0,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.833329,-99.513727",95.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.383842,-91.676709",286.5,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"20.544827,-103.291623",246.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.092878,-100.174125",326.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.037197,-103.105787",308.6,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"18.415062,-89.775389",268.8,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.097232,-101.547015",395.2,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,236.8,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"20.484852,-87.134032",89.6,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"25.806482,-95.444556",339.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.502724,-95.199416",138.1,40058.55
+house,|México|Guerrero|City|Neighborhood|,"20.521829,-96.779329",322.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"17.335156,-99.482197",385.0,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,293.9,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"23.754095,-93.943849",258.6,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,nan,211.1,40058.55
+house,|México|Chiapas|City|Neighborhood|,"23.607048,-87.244709",177.5,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,173.6,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"21.718288,-88.217389",272.7,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,nan,312.9,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"18.280618,-92.851113",287.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"16.11526,-88.098666",119.4,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,222.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"19.092681,-86.76475",327.1,40058.55
+house,|México|Guerrero|City|Neighborhood|,"17.168788,-97.684279",216.5,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"25.858584,-93.978347",237.8,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,319.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"17.303239,-86.98816",281.4,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"17.990823,-101.107675",193.3,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"21.877032,-91.07738",363.4,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"16.640435,-95.583688",106.9,40058.55
+house,|México|Guerrero|City|Neighborhood|,"24.624341,-100.628857",398.4,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"25.614997,-90.467863",91.6,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"18.467474,-94.955554",55.2,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,361.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.221345,-99.541979",135.7,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"22.407102,-96.374521",305.4,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"20.139261,-93.652915",333.9,40058.55
+house,|México|Yucatán|City|Neighborhood|,"18.700585,-97.901784",350.6,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.068371,-102.032549",397.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"22.540231,-86.76719",152.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"20.16217,-95.770649",298.6,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"17.796593,-91.321593",90.4,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"22.891091,-97.779056",192.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.650723,-98.897365",346.8,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"24.586721,-97.856714",178.7,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"17.174759,-97.816067",256.9,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"23.856666,-95.116398",226.3,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"22.735168,-95.130603",276.1,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"17.150109,-96.056924",390.5,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"22.948207,-103.304284",69.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.415473,-96.07849",250.9,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"25.449848,-102.617922",352.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.416114,-103.477284",218.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"22.428334,-87.347086",77.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,246.2,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,166.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"19.299749,-97.964127",104.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"25.621859,-87.820382",347.2,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"25.014859,-93.24139",232.6,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"18.703832,-90.616603",376.6,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.035418,-98.628751",332.1,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.956042,-86.799762",292.5,40058.55
+house,|México|Guerrero|City|Neighborhood|,"18.52663,-89.590774",51.8,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.367772,-88.921031",199.7,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.201807,-102.556115",119.1,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.949311,-100.580736",368.8,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"16.152648,-100.287468",111.1,40058.55
+house,|México|Estado de México|City|Neighborhood|,"18.201292,-100.581816",150.1,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"18.819369,-88.891837",230.9,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.435997,-105.362304",142.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"17.711025,-104.478",123.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"24.732544,-100.521703",259.7,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"23.049111,-102.002541",81.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.852005,-101.362808",70.4,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"22.500925,-90.041136",180.3,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,302.2,40058.55
+house,|México|Tabasco|City|Neighborhood|,"25.562212,-105.884587",244.2,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"16.030209,-97.413545",198.0,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.479324,-97.842301",248.0,40058.55
+house,|México|Yucatán|City|Neighborhood|,nan,177.9,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.321339,-92.477164",377.7,40058.55
+house,|México|Morelos|City|Neighborhood|,nan,69.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"23.657633,-91.582136",285.7,40058.55
+house,|México|Querétaro|City|Neighborhood|,"16.91483,-91.430581",361.9,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,331.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"18.31583,-86.921584",114.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"17.81218,-89.715825",153.6,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"24.103033,-87.920366",301.0,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"17.350381,-105.687134",79.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"20.686516,-87.322824",334.2,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"25.385782,-89.804229",301.6,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.858321,-89.255617",305.4,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.779934,-104.134252",85.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,301.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"21.556172,-86.801666",287.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"17.701427,-92.429053",340.8,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"19.161049,-94.588772",64.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,"20.244928,-87.087406",58.1,40058.55
+house,|México|Morelos|City|Neighborhood|,"19.093242,-97.141258",180.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,nan,102.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"25.722297,-96.473234",245.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.533648,-87.343076",371.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.333279,-104.478305",187.0,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"16.004103,-95.977606",345.7,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,50.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"25.15943,-90.161869",109.0,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.879341,-94.339627",60.6,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.85526,-87.821645",164.9,40058.55
+house,|México|Estado de México|City|Neighborhood|,"22.516798,-87.160171",367.9,40058.55
+house,|México|Estado de México|City|Neighborhood|,"23.126014,-104.713616",83.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"22.880305,-97.952589",262.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.193169,-105.53082",208.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"18.522024,-99.411667",378.5,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"25.559188,-95.262636",92.9,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,nan,124.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,60.3,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"24.461939,-103.450005",201.9,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"20.523235,-104.139393",147.2,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"20.24389,-94.214653",354.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"17.567629,-95.357641",261.7,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.264061,-100.672447",264.9,40058.55
+house,|México|Querétaro|City|Neighborhood|,"21.374169,-88.010938",236.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,nan,82.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,205.8,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"23.813562,-88.193949",399.8,40058.55
+house,|México|Yucatán|City|Neighborhood|,"22.800461,-98.321022",342.3,40058.55
+house,|México|Guerrero|City|Neighborhood|,"22.35157,-91.263663",362.7,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.095554,-96.481156",338.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.18032,-103.548337",86.1,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"21.570476,-87.441316",129.6,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,51.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.413354,-91.310259",156.2,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.238956,-98.656524",88.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"17.362506,-105.622382",215.5,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"24.875631,-103.989393",287.0,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"20.707624,-96.07561",356.1,40058.55
+house,|México|Estado de México|City|Neighborhood|,nan,312.2,40058.55
+house,|México|Morelos|City|Neighborhood|,"21.858521,-99.305293",378.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,"22.741921,-92.090231",68.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.042612,-92.027288",54.3,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"22.591555,-91.921282",281.5,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"19.980548,-96.149563",151.3,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"21.136334,-87.702277",138.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,165.8,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.736503,-96.994696",144.4,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"19.881215,-102.012384",229.0,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"16.956901,-99.846898",204.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"25.145844,-105.15331",229.3,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.910363,-93.329294",285.4,40058.55
+house,|México|Guerrero|City|Neighborhood|,"22.482092,-101.029285",185.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.131945,-99.916895",138.0,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.056194,-90.58371",108.2,40058.55
+house,|México|Yucatán|City|Neighborhood|,"22.795518,-99.455576",172.3,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"16.670937,-101.156082",309.6,40058.55
+house,|México|Tabasco|City|Neighborhood|,"21.937058,-102.618845",314.8,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"23.720318,-90.502832",283.4,40058.55
+house,|México|Morelos|City|Neighborhood|,"24.282128,-103.405875",131.9,40058.55
+house,|México|Yucatán|City|Neighborhood|,"17.705304,-96.924925",255.8,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"24.974191,-95.861398",249.7,40058.55
+house,|México|Tabasco|City|Neighborhood|,"22.561461,-92.252202",219.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"24.818548,-93.33433",242.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.852807,-89.785587",222.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,247.9,40058.55
+house,|México|Guerrero|City|Neighborhood|,"25.190383,-100.071186",300.4,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"24.999095,-100.397318",88.4,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.481609,-103.079662",312.4,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.744126,-100.216435",97.6,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,73.3,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"19.877643,-95.562311",391.6,40058.55
+house,|México|Nuevo León|City|Neighborhood|,nan,384.9,40058.55
+house,|México|Estado de México|City|Neighborhood|,nan,71.2,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"24.610629,-91.610595",205.1,40058.55
+house,|México|Chiapas|City|Neighborhood|,"16.698619,-99.276693",115.2,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"22.776112,-100.194326",219.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"17.728201,-95.176239",340.6,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.445059,-105.525673",382.7,40058.55
+house,|México|Morelos|City|Neighborhood|,"16.61543,-104.404218",272.0,40058.55
+house,|México|Tabasco|City|Neighborhood|,"18.699736,-97.640609",173.9,40058.55
+house,|México|Yucatán|City|Neighborhood|,"23.684211,-87.141746",261.2,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.850153,-91.569764",159.2,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,nan,368.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.635478,-89.07364",354.6,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.70324,-91.353985",245.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,"24.735753,-93.781069",163.7,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"23.627991,-89.594141",152.7,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"21.130772,-97.917803",61.7,40058.55
+house,|México|Chiapas|City|Neighborhood|,"22.707472,-101.569979",335.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"24.473551,-95.759532",207.6,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"16.09539,-95.023165",163.8,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"20.0289,-95.233473",214.9,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"25.072432,-94.698524",336.6,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.40313,-87.025902",93.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,nan,350.2,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"21.296445,-88.485659",364.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"19.477701,-89.971664",381.3,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"21.205205,-87.131438",189.1,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,nan,126.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"20.18363,-100.697535",180.8,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"23.141531,-96.098881",166.5,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.612322,-89.06931",111.7,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.546848,-95.896686",262.5,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"20.51547,-91.039305",216.8,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,353.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"22.874648,-100.951724",61.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"18.498675,-91.364478",275.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"22.402509,-102.70532",317.0,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"24.774892,-98.972881",315.8,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,nan,360.1,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"25.110157,-99.002766",305.2,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"25.931637,-91.833519",374.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"17.06092,-98.643056",166.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.330532,-94.894734",226.1,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.503798,-104.001362",54.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"25.583277,-89.899646",52.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.977073,-98.602227",134.0,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"16.149985,-93.029317",85.3,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"17.611,-91.492208",141.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"25.960128,-101.806782",112.0,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.799996,-88.3065",60.0,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"21.025476,-93.675515",368.3,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"24.484177,-97.425497",52.9,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,307.6,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"22.04489,-87.153981",103.3,40058.55
+house,|México|Estado de México|City|Neighborhood|,nan,369.3,40058.55
+house,|México|Nuevo León|City|Neighborhood|,nan,362.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"18.834611,-99.245785",278.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"22.867557,-89.806515",285.3,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"22.742196,-92.086447",51.9,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"18.214935,-90.684314",394.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"16.347992,-97.175978",357.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.092496,-91.670475",363.3,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.891932,-98.270126",280.7,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"24.089777,-101.774742",170.7,40058.55
+house,|México|Yucatán|City|Neighborhood|,"24.003642,-93.346459",362.8,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.57024,-86.479721",152.0,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"22.065122,-99.787981",246.9,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"22.042595,-96.780608",84.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.271581,-92.519973",372.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"20.250024,-95.169874",99.3,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,nan,128.7,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"18.650349,-90.765146",245.3,40058.55
+house,|México|Tabasco|City|Neighborhood|,"21.361923,-104.834056",317.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"20.491482,-86.031575",266.8,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.401208,-90.951951",131.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"16.911373,-88.721934",50.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,315.0,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.137367,-88.874297",394.8,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,333.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"20.127583,-99.045243",211.1,40058.55
+house,|México|Guerrero|City|Neighborhood|,"18.277783,-88.471581",366.3,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.838583,-101.966896",193.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,233.7,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.489117,-90.237621",217.0,40058.55
+house,|México|Morelos|City|Neighborhood|,"21.371693,-89.290277",206.7,40058.55
+house,|México|Morelos|City|Neighborhood|,nan,321.3,40058.55
+house,|México|Estado de México|City|Neighborhood|,"17.557516,-88.91308",234.4,40058.55
+house,|México|Morelos|City|Neighborhood|,"24.804219,-92.264644",160.9,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,140.4,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.120936,-89.394996",63.2,40058.55
+house,|México|Morelos|City|Neighborhood|,"16.356122,-97.615015",254.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"20.979763,-102.120121",130.5,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"21.541697,-100.302946",101.8,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.588409,-95.89672",278.8,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"23.070312,-95.373384",288.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"17.774818,-89.888383",313.3,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"18.522231,-90.172946",226.3,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,362.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,377.7,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"17.359327,-102.164531",332.6,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"20.976496,-104.998709",272.5,40058.55
+house,|México|Yucatán|City|Neighborhood|,nan,156.3,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.600732,-104.48891",394.0,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.255033,-101.066231",145.9,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,nan,120.9,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"23.099331,-97.811041",204.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.337254,-88.473721",69.9,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"17.438345,-100.040404",392.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"16.092416,-105.762573",256.0,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"24.08157,-99.986887",244.9,40058.55
+house,|México|Guerrero|City|Neighborhood|,"17.761944,-94.438499",279.5,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"22.062166,-98.481232",224.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"19.369219,-95.302545",61.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"21.854859,-88.468038",264.3,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"19.156536,-87.750299",300.7,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"16.869396,-100.680519",195.9,40058.55
+house,|México|Guerrero|City|Neighborhood|,"18.2295,-96.757191",315.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,nan,129.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.280194,-87.017751",127.4,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"22.582838,-86.027654",106.5,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.638061,-101.291855",180.2,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"16.120699,-91.460403",346.5,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"21.189374,-98.439379",339.8,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"22.057595,-105.837836",184.0,40058.55
+house,|México|Chiapas|City|Neighborhood|,"25.628705,-105.81495",256.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"21.894708,-96.78868",302.3,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,nan,134.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.734016,-105.548606",108.8,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"25.279006,-92.261452",390.2,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"24.283781,-100.119932",266.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.229787,-94.802138",393.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,168.2,40058.55
+house,|México|Yucatán|City|Neighborhood|,"18.626336,-102.657314",296.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"21.04421,-97.856525",127.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"23.440495,-101.354533",141.4,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"21.032192,-95.30398",229.2,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"16.677964,-102.023429",161.9,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"23.235807,-95.83188",108.7,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,nan,142.0,40058.55
+house,|México|Chiapas|City|Neighborhood|,"18.894979,-92.580506",62.5,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"22.641257,-90.921246",296.5,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.265919,-103.792115",222.2,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"24.891194,-96.643952",83.0,40058.55
+house,|México|Tabasco|City|Neighborhood|,"24.452256,-104.582566",110.1,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"21.25432,-94.036351",85.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"22.915055,-100.711914",264.4,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"24.833497,-95.447511",83.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,314.0,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.132507,-87.512913",57.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,137.3,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"18.200663,-94.34003",361.7,40058.55
+house,|México|Guerrero|City|Neighborhood|,"19.885311,-97.966937",301.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"24.657272,-87.018408",75.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"23.244223,-90.456282",337.4,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.03811,-100.291894",222.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,"18.147445,-89.115808",346.4,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.559684,-97.352073",260.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,"18.841041,-89.426657",288.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,"17.760893,-89.542239",397.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"23.433329,-102.222596",131.3,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.520699,-91.977177",268.4,40058.55
+house,|México|Guerrero|City|Neighborhood|,"20.541675,-100.187141",211.1,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"19.858594,-100.050147",63.8,40058.55
+house,|México|Guerrero|City|Neighborhood|,"25.820774,-100.073038",55.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.910922,-91.488635",91.7,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,277.2,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"16.898258,-105.981883",248.5,40058.55
+house,|México|Estado de México|City|Neighborhood|,nan,243.7,40058.55
+house,|México|Morelos|City|Neighborhood|,nan,61.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.18759,-103.910352",214.3,40058.55
+house,|México|Querétaro|City|Neighborhood|,"20.318437,-101.249678",373.6,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"16.539326,-98.40199",189.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.165465,-96.481873",268.7,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.047395,-105.108599",322.9,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"17.495493,-86.588533",324.4,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.038394,-91.678739",231.7,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,350.3,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"17.010282,-99.626055",187.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"22.097082,-97.029149",361.0,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.964827,-93.475104",134.1,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,nan,148.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.735721,-102.221404",68.6,40058.55
+house,|México|Tabasco|City|Neighborhood|,"25.578353,-88.811308",328.5,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"24.546175,-100.874902",196.0,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.304948,-98.3961",130.2,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"19.275663,-88.574563",131.1,40058.55
+house,|México|Estado de México|City|Neighborhood|,"18.098928,-92.737043",365.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"20.91876,-99.165762",341.9,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"16.196105,-92.326009",243.7,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"22.71368,-105.606336",265.6,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,216.0,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.986389,-96.259679",187.1,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,370.4,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"24.041092,-86.907247",94.0,40058.55
+house,|México|Morelos|City|Neighborhood|,"23.91961,-87.484229",196.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"17.271812,-87.814699",170.6,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.985592,-95.756601",224.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"17.701526,-98.797158",210.2,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.547205,-96.699294",231.6,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"18.632462,-92.20208",99.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.562364,-88.320044",229.6,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.114109,-101.860274",134.8,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,114.5,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"17.263701,-89.696395",72.7,40058.55
+house,|México|Tabasco|City|Neighborhood|,"25.736921,-86.42288",316.9,40058.55
+house,|México|Estado de México|City|Neighborhood|,"18.306386,-88.394965",199.6,40058.55
+house,|México|Chiapas|City|Neighborhood|,"23.728739,-100.401253",269.3,40058.55
+house,|México|Yucatán|City|Neighborhood|,"19.389699,-103.880882",304.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"17.430814,-103.755179",287.8,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.578892,-100.175534",214.7,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.088609,-93.716326",185.8,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"22.588554,-89.913593",181.6,40058.55
+house,|México|Morelos|City|Neighborhood|,"21.664437,-88.014994",274.0,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"20.717563,-93.524932",223.2,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,nan,347.2,40058.55
+house,|México|Tabasco|City|Neighborhood|,"23.322379,-102.273664",356.1,40058.55
+house,|México|Guerrero|City|Neighborhood|,"16.877729,-104.005476",109.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,nan,97.7,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,nan,270.6,40058.55
+house,|México|Chiapas|City|Neighborhood|,"16.577882,-105.132056",155.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.406533,-99.03044",56.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,361.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.372816,-93.058597",129.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,nan,375.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"17.369666,-96.093647",301.1,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"21.0677,-97.446164",316.9,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"17.265453,-86.879606",120.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.766205,-101.705297",132.0,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"23.636153,-95.666715",232.4,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,110.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.807862,-94.863112",156.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"25.92016,-87.419582",162.5,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"22.866504,-98.440633",105.9,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"24.413568,-96.726484",121.8,40058.55
+house,|México|Querétaro|City|Neighborhood|,"20.148476,-104.229554",326.0,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"23.678609,-93.820018",108.5,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"16.405092,-100.235761",60.0,40058.55
+house,|México|Guerrero|City|Neighborhood|,"17.229112,-102.793819",270.3,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"18.030706,-95.109374",391.6,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.019519,-95.353795",165.9,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,91.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,"19.462661,-92.035691",249.6,40058.55
+house,|México|Estado de México|City|Neighborhood|,"22.546212,-93.524556",367.2,40058.55
+house,|México|Estado de México|City|Neighborhood|,"23.093143,-102.219654",324.4,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"21.861824,-96.611303",267.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"19.57242,-91.593542",160.3,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.770533,-95.411285",239.7,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.422656,-98.090218",81.9,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"16.838737,-99.553231",287.6,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"25.92804,-93.792123",303.8,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.271825,-87.217826",387.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.723484,-92.565103",141.1,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"24.785307,-104.505082",56.5,40058.55
+house,|México|Guerrero|City|Neighborhood|,"19.018347,-96.786301",241.0,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"22.50297,-88.183517",297.4,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,326.6,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,117.8,40058.55
+house,|México|Morelos|City|Neighborhood|,"18.62113,-87.018612",141.6,40058.55
+house,|México|Estado de México|City|Neighborhood|,"19.43044,-104.43451",229.4,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"20.107004,-87.331734",165.7,40058.55
+house,|México|Morelos|City|Neighborhood|,nan,351.2,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.115362,-89.105817",215.8,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"25.435652,-97.632333",329.9,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"16.418804,-97.182898",253.2,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"21.030683,-93.315138",320.6,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,nan,166.4,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"25.20197,-105.324217",341.0,40058.55
+house,|México|Tabasco|City|Neighborhood|,"16.491585,-94.13688",146.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"21.734996,-102.26534",241.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"24.536299,-99.08101",124.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"18.419277,-99.040627",216.4,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"24.762923,-96.618793",161.4,40058.55
+house,|México|Nuevo León|City|Neighborhood|,nan,143.3,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"23.324546,-103.852778",388.4,40058.55
+house,|México|Estado de México|City|Neighborhood|,"25.331132,-103.087425",106.0,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,325.6,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"20.390292,-96.595018",394.5,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"16.44881,-86.911046",57.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"25.201138,-103.686496",294.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"20.702962,-87.07471",138.5,40058.55
+house,|México|Morelos|City|Neighborhood|,"16.289967,-91.33277",64.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,191.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.818373,-93.094445",377.3,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.243453,-89.465447",54.1,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"18.142718,-103.861603",255.8,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"16.644907,-95.904914",225.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"21.742935,-92.058177",355.7,40058.55
+house,|México|Guerrero|City|Neighborhood|,"22.220295,-94.263591",79.4,40058.55
+house,|México|Yucatán|City|Neighborhood|,nan,288.5,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"24.171021,-104.554566",288.0,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"24.610088,-92.185979",284.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"22.156244,-95.319445",379.8,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.127565,-98.416783",338.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"22.952297,-99.1945",64.7,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"20.179992,-93.583347",214.9,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.655575,-88.180093",189.3,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"22.490806,-96.076481",158.6,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.502366,-89.505537",208.0,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"25.170985,-97.956872",184.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.339749,-103.952111",201.3,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"22.715118,-104.769885",392.7,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"16.043596,-104.973313",81.0,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"25.246511,-98.396997",372.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.125041,-99.255245",218.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"16.948842,-91.64126",268.3,40058.55
+house,|México|Querétaro|City|Neighborhood|,"19.330076,-91.14357",340.6,40058.55
+house,|México|Tabasco|City|Neighborhood|,"19.735663,-104.982921",176.2,40058.55
+house,|México|Tabasco|City|Neighborhood|,"18.143001,-101.577535",200.6,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.851217,-100.514763",193.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,"20.429141,-95.04776",181.2,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.341756,-103.109696",373.9,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,340.1,40058.55
+house,|México|Morelos|City|Neighborhood|,"24.104329,-87.124222",88.1,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"22.897015,-89.915942",87.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.248709,-102.386902",199.8,40058.55
+house,|México|Estado de México|City|Neighborhood|,nan,84.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,"19.10973,-98.88756",266.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"16.996639,-90.179919",100.3,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,nan,232.8,40058.55
+house,|México|Guerrero|City|Neighborhood|,"24.317853,-103.443005",52.5,40058.55
+house,|México|Estado de México|City|Neighborhood|,"25.804708,-91.220159",160.8,40058.55
+house,|México|Yucatán|City|Neighborhood|,"20.93847,-98.06224",287.0,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.097004,-100.741515",219.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.400448,-98.490028",392.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"19.220806,-96.044869",355.9,40058.55
+house,|México|Chiapas|City|Neighborhood|,"21.785853,-99.13769",175.7,40058.55
+house,|México|Estado de México|City|Neighborhood|,"16.750936,-101.161885",65.9,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"25.433573,-98.029959",346.0,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"19.650837,-105.616542",368.9,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"25.125842,-90.550043",337.2,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,94.8,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.554373,-105.121908",399.3,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"22.067196,-92.926026",140.5,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"22.267838,-90.521277",303.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"22.380032,-89.723417",367.8,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"22.287214,-96.129816",132.5,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"21.537282,-101.892636",367.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"25.86414,-91.255446",158.3,40058.55
+house,|México|Yucatán|City|Neighborhood|,"23.322906,-92.005738",391.7,40058.55
+house,|México|Tabasco|City|Neighborhood|,"23.769464,-101.074585",148.4,40058.55
+house,|México|Chiapas|City|Neighborhood|,"24.724628,-87.931845",383.7,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.156398,-103.912571",68.7,40058.55
+house,|México|Querétaro|City|Neighborhood|,"16.838042,-86.346235",298.2,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"20.828944,-88.795044",236.2,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"21.140807,-92.242027",217.3,40058.55
+house,|México|Querétaro|City|Neighborhood|,"24.291818,-87.225002",128.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.437836,-91.553777",297.0,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.70853,-102.19086",116.8,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,243.5,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"16.382028,-104.56994",138.6,40058.55
+house,|México|Morelos|City|Neighborhood|,"22.152149,-98.206852",384.5,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,nan,60.0,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"17.575005,-98.271133",119.9,40058.55
+house,|México|Querétaro|City|Neighborhood|,"21.943317,-99.394116",134.8,40058.55
+house,|México|Morelos|City|Neighborhood|,"21.936105,-94.092886",194.9,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"17.64185,-88.555909",131.5,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"17.234636,-105.048336",222.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"25.800519,-98.290591",355.4,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"19.937192,-102.835185",299.2,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.274217,-92.092915",253.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"17.713245,-103.885509",81.2,40058.55
+house,|México|Querétaro|City|Neighborhood|,"22.676017,-92.703845",292.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"22.094453,-100.276383",108.2,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"22.435521,-102.021664",325.2,40058.55
+house,|México|Guerrero|City|Neighborhood|,"16.88006,-87.272949",137.5,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"24.935346,-105.629508",196.0,40058.55
+house,|México|Estado de México|City|Neighborhood|,"19.892664,-97.244455",172.7,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"19.133694,-105.56746",350.6,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.623614,-96.328139",94.3,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"19.900661,-95.979052",248.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"24.63577,-99.566751",99.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"25.29261,-103.356764",296.7,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"19.034532,-98.472249",366.8,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"24.639358,-92.554741",202.1,40058.55
+house,|México|Morelos|City|Neighborhood|,"23.815231,-90.352084",220.8,40058.55
+house,|México|Chiapas|City|Neighborhood|,"25.308077,-95.384988",374.6,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,232.3,40058.55
+house,|México|Guerrero|City|Neighborhood|,"21.769592,-101.987673",220.7,40058.55
+house,|México|Yucatán|City|Neighborhood|,nan,252.4,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,291.2,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.053242,-101.014093",87.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.648192,-101.502264",337.4,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"19.392034,-95.611024",202.4,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,nan,75.3,40058.55
+house,|México|Estado de México|City|Neighborhood|,"22.449063,-87.101052",325.2,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,nan,181.9,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"22.091954,-93.166486",85.1,40058.55
+house,|México|Yucatán|City|Neighborhood|,"24.53173,-89.654815",271.8,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.645971,-94.795171",358.0,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"21.195019,-100.899927",360.7,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"20.505365,-100.748995",385.2,40058.55
+house,|México|Yucatán|City|Neighborhood|,"16.116449,-105.214939",353.7,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.568121,-99.891115",50.7,40058.55
+house,|México|Morelos|City|Neighborhood|,"22.615243,-91.107926",183.1,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"21.919144,-105.049645",336.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"23.362799,-101.614094",178.2,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.713395,-91.87535",260.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"16.667503,-90.346969",262.2,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"17.164455,-96.893632",177.8,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.964746,-92.038513",366.6,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"18.749792,-98.240957",226.1,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"16.796451,-102.801735",212.7,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"20.296027,-98.03701",399.1,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"21.543226,-94.400644",222.7,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"19.28746,-87.038934",112.4,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"23.204337,-104.624981",229.6,40058.55
+house,|México|Querétaro|City|Neighborhood|,"22.437706,-95.852118",334.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"19.328184,-99.421604",321.9,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"23.548725,-95.833766",326.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,297.8,40058.55
+house,|México|Guerrero|City|Neighborhood|,nan,139.0,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.534277,-89.602637",351.7,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"16.113897,-94.921165",362.7,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,118.0,40058.55
+house,|México|Yucatán|City|Neighborhood|,"19.760418,-100.289499",95.7,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"25.426097,-100.03915",391.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"24.179848,-98.337971",353.9,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,"21.876945,-89.288586",362.6,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,360.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"18.037174,-97.226892",239.6,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"19.403848,-98.132943",276.2,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.765679,-89.068984",240.9,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.960655,-97.461894",67.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,nan,310.9,40058.55
+house,|México|Tabasco|City|Neighborhood|,"17.653704,-101.381167",226.9,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"25.777128,-91.129949",276.7,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"17.079246,-95.360234",225.9,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.319441,-89.819309",222.1,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"25.13578,-90.385345",110.1,40058.55
+house,|México|Chiapas|City|Neighborhood|,"21.253605,-101.699905",147.5,40058.55
+house,|México|Guerrero|City|Neighborhood|,"23.249103,-91.687289",105.6,40058.55
+house,|México|Yucatán|City|Neighborhood|,"20.360483,-89.998912",118.5,40058.55
+house,|México|Tabasco|City|Neighborhood|,"22.300346,-99.077855",390.5,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"19.405759,-102.547818",103.6,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"19.01159,-105.947357",144.2,40058.55
+house,|México|Estado de México|City|Neighborhood|,"21.782298,-96.981927",256.7,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"20.981297,-98.951345",263.6,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"21.795364,-94.901803",103.9,40058.55
+house,|México|Morelos|City|Neighborhood|,"18.866606,-102.239178",327.8,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.669578,-88.806689",324.8,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"16.83898,-100.844896",133.1,40058.55
+house,|México|Morelos|City|Neighborhood|,"16.522764,-101.471408",151.0,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"18.534571,-96.385719",378.3,40058.55
+house,|México|Morelos|City|Neighborhood|,"16.742469,-96.02298",339.0,40058.55
+apartment,|México|Querétaro|City|Neighborhood|,nan,294.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"24.129284,-100.562785",78.8,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,nan,196.4,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"22.589428,-91.630796",245.8,40058.55
+house,|México|Estado de México|City|Neighborhood|,"18.725577,-90.598219",115.6,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"24.715457,-96.75343",206.9,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"20.849923,-91.71826",260.4,40058.55
+house,|México|Querétaro|City|Neighborhood|,"19.055765,-91.281292",164.6,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"21.176389,-103.234489",323.3,40058.55
+house,|México|Yucatán|City|Neighborhood|,"19.81958,-86.67644",344.2,40058.55
+house,|México|Yucatán|City|Neighborhood|,"21.643011,-89.579361",163.3,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,343.5,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,nan,86.3,40058.55
+apartment,|México|Distrito Federal|City|Neighborhood|,"20.255559,-103.486777",343.2,40058.55
+house,|México|Guerrero|City|Neighborhood|,"19.482306,-103.232429",103.5,40058.55
+house,|México|Chiapas|City|Neighborhood|,"23.102098,-91.036764",79.0,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,"19.638994,-96.606915",274.6,40058.55
+house,|México|Morelos|City|Neighborhood|,"24.332743,-90.341317",215.2,40058.55
+house,|México|Guerrero|City|Neighborhood|,"20.542707,-91.074902",367.8,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.195584,-93.907746",177.1,40058.55
+apartment,|México|Nuevo León|City|Neighborhood|,nan,150.5,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"24.461192,-105.632886",225.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,"23.35718,-99.764447",209.6,40058.55
+house,|México|Yucatán|City|Neighborhood|,"18.117168,-93.243556",170.5,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"17.45286,-105.813101",292.8,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"19.162923,-105.340461",315.8,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"25.760706,-88.96224",348.5,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.568316,-92.319503",390.5,40058.55
+house,|México|Nuevo León|City|Neighborhood|,nan,143.3,40058.55
+house,|México|Guerrero|City|Neighborhood|,"16.300202,-92.240743",300.6,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.972275,-90.150867",188.0,40058.55
+house,|México|Morelos|City|Neighborhood|,"21.7132,-99.864114",287.0,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"25.531246,-105.279252",216.6,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"21.16736,-87.344418",397.8,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,305.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.471276,-103.870365",383.4,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,342.2,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"19.150083,-90.630644",366.0,40058.55
+house,|México|Querétaro|City|Neighborhood|,"21.755495,-101.567054",335.0,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"25.50594,-100.610199",210.7,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"24.591304,-101.1457",138.1,40058.55
+house,|México|Estado de México|City|Neighborhood|,"18.283556,-86.166539",179.6,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"18.201098,-102.051925",57.1,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.01173,-94.489596",233.4,40058.55
+apartment,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"25.224989,-87.494707",226.8,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"24.526662,-103.062069",233.8,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"23.748834,-86.582916",390.9,40058.55
+house,|México|Tabasco|City|Neighborhood|,"19.927351,-87.050455",369.0,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"21.043807,-88.30856",106.6,40058.55
+apartment,|México|Morelos|City|Neighborhood|,"20.643317,-101.70887",179.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"18.533981,-93.318899",198.4,40058.55
+house,|México|Guerrero|City|Neighborhood|,"21.05028,-90.782171",176.2,40058.55
+house,|México|Tabasco|City|Neighborhood|,"16.304965,-86.279441",329.5,40058.55
+apartment,|México|Chiapas|City|Neighborhood|,"17.318104,-102.391524",233.4,40058.55
+house,|México|Chiapas|City|Neighborhood|,"24.865896,-90.679482",250.2,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"23.516798,-99.223977",348.6,40058.55
+house,|México|Estado de México|City|Neighborhood|,"20.228684,-102.487471",332.1,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"21.171504,-97.572461",96.3,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"19.699989,-90.123282",299.9,40058.55
+house,|México|Guerrero|City|Neighborhood|,"23.407799,-96.703004",202.4,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"23.841872,-95.249538",153.1,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"23.632852,-86.096812",67.5,40058.55
+apartment,|México|Guerrero|City|Neighborhood|,"23.226117,-98.017814",220.5,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"18.045043,-93.691985",174.4,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"19.3797,-98.695116",138.0,40058.55
+apartment,|México|Estado de México|City|Neighborhood|,"20.698454,-98.144287",293.1,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"19.30793,-92.087185",319.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,nan,135.7,40058.55
+house,|México|Veracruz de Ignacio de la Llave|City|Neighborhood|,"19.293535,-95.152821",67.3,40058.55
+apartment,|México|Yucatán|City|Neighborhood|,"17.382321,-90.632001",347.1,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,53.5,40058.55
+house,|México|Querétaro|City|Neighborhood|,"25.799144,-101.776839",378.0,40058.55
+house,|México|Guerrero|City|Neighborhood|,"18.258814,-95.957367",269.7,40058.55
+house,|México|Yucatán|City|Neighborhood|,"22.121587,-105.599766",162.6,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,"20.32973,-100.9429",136.3,40058.55
+house,|México|Chiapas|City|Neighborhood|,"16.710246,-95.651974",53.2,40058.55
+house,|México|Distrito Federal|City|Neighborhood|,nan,132.4,40058.55
+house,|México|Morelos|City|Neighborhood|,"23.021643,-100.709074",98.2,40058.55
+house,|México|Chiapas|City|Neighborhood|,"21.1322,-95.719384",264.3,40058.55
+house,|México|Nuevo León|City|Neighborhood|,"24.721061,-94.537015",108.3,40058.55
+apartment,|México|Tabasco|City|Neighborhood|,"18.88937,-87.484966",235.0,40058.55
+house,|México|Querétaro|City|Neighborhood|,"16.862492,-93.093088",256.5,40058.55
+apartment,|México|Morelos|City|Neighborhood|,nan,154.3,40058.55
+house,|México|Tabasco|City|Neighborhood|,nan,62.3,40058.55
