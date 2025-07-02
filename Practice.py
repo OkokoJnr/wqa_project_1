@@ -1,6 +1,8 @@
 import pandas as pd
 df1 = pd.read_csv('mexico-real-estate-1.csv')
 df2 = pd.read_csv('mexico-real-estate-2.csv')
+df3 = pd.read_csv('mexico-real-estate-3.csv')
+
 #Task1: Cleaning df1
 # 1. Remove NaN values
 df1.dropna(inplace=True)
@@ -21,4 +23,13 @@ df2["price_usd"] = (df2["price_mxn"]/19).round(2) #convert price_mxn to price_us
 
 df2.drop(columns=["price_mxn"], inplace=True) #drop price_mxn column
 
-print(df2.head())
+# Task 3: Clean df3
+df3.dropna(inplace=True)  # Remove NaN values
+
+df3[["lat", "lon"]] = df3["lat-lon"].str.split(",", expand=True) # Split lat-lon into two columns
+df3.drop(columns=["lat-lon"], inplace=True)  # Drop the original lat-lon column
+
+df3["state"] = df3["place_with_parent_names"].str.split("|", expand=True)[2]  # Extract state from place_with_parent_names
+
+df3.drop(columns=["place_with_parent_names"], inplace=True)  # Drop place_with_parent_names column
+print(df3.info())  
