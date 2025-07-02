@@ -15,3 +15,9 @@ How to create data visualizations like scatter and box plots.
 How to examine the relationship between two variables using correlation.
 
 The project consists of four lessons and one assignment. I'll work through the lessons following WordQuant Instructor  code-along videos.
+
+Each of the following tasks were carried out:
+
+Task 1: Clean df1 by dropping rows with NaN values. Then remove the "$" and "," characters from "price_usd" and recast the values in the column as floats.
+
+Task 2: First, drop rows with NaN values in df2. Next, use the "price_mxn" column to create a new column named "price_usd". (Keep in mind that, when this data was collected in 2014, a dollar cost 19 pesos.) Finally, drop the "price_mxn" from the DataFrame.
