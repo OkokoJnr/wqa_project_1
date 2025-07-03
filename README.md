@@ -25,3 +25,5 @@ Task 2: First, drop rows with NaN values in df2. Next, use the "price_mxn" colum
 Task 3: Drop rows with NaN values in df3. Then use the split method to create two new columns from "lat-lon" named "lat" and "lon", respectively.
 
 Task 4: Use the split method again, this time to extract the state for every house. (Note that the state name always appears after "México|" in each string.) Use this information to create a "state" column. Finally, drop the "place_with_parent_names" and "lat-lon" columns from the DataFrame.
+
+Task 5: Concatenate df1, df2, df3 as new DataFrame named df and then save it as a CSV file

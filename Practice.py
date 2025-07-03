@@ -26,10 +26,13 @@ df2.drop(columns=["price_mxn"], inplace=True) #drop price_mxn column
 # Task 3: Clean df3
 df3.dropna(inplace=True)  # Remove NaN values
 
-df3[["lat", "lon"]] = df3["lat-lon"].str.split(",", expand=True) # Split lat-lon into two columns
+df3[["lat", "lon"]] = df3["lat-lon"].str.split(",", expand=True).astype(float) # Split lat-lon into two columns
 df3.drop(columns=["lat-lon"], inplace=True)  # Drop the original lat-lon column
 
 df3["state"] = df3["place_with_parent_names"].str.split("|", expand=True)[2]  # Extract state from place_with_parent_names
 
 df3.drop(columns=["place_with_parent_names"], inplace=True)  # Drop place_with_parent_names column
-print(df3.info())  
+
+df = pd.concat([df1, df2, df3], ignore_index=True)  # Concatenate df1, df2, df3 into a new DataFrame
+df.to_csv('cleaned_mexico_real_estate.csv', index=False)  # save the new DataFrame as a CSV file
+print(df.head())  
