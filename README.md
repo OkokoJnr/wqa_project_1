@@ -31,3 +31,9 @@ Task 5: Concatenate df1, df2, df3 as new DataFrame named df and then save it as 
 
 EXPLORATORY DATA ANALYSIS SECTION
 This section is for exploratory data analysis (EDA) of the cleaned dataset.
+
+
+Task 1: Visualize the locations usig lat and lon using a scatter plot on top of a map using the scatter_map from plotly library. 
+
+![Mexico Real Estate Map](images/mexico_map.png)
+
