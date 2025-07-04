@@ -40,7 +40,7 @@ df = pd.read_csv('cleaned_mexico_real_estate.csv')
 #determine the 10 most prevalent states in our dataset.
 top10 = df["state"].value_counts().head(10)
 
-plt.figure(figsize=(15, 10))
+plt.figure(figsize=(8, 8))
 # Visualize the top 10 states by count using a bar chart
 '''
 plt.bar(top10.index, top10.values, color='skyblue')
@@ -58,7 +58,12 @@ plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
 # plt.title("Distribution of Home Sizes")
 # plt.savefig("images/area_distribution.png", dpi=300)  # Save at 300 DPI
 
-
+#-----------------------------------------------------------------------------
+#Task 4: Create a horizontal boxplot of "area_m2"
+plt.boxplot(df["area_m2"], vert=False)
+plt.xlabel("Area [sq meters]")
+plt.title("Distribution of Home Sizes") 
+plt.savefig("images/area_boxplot.png", dpi=300)  # Save at 300 DPI
 #show the plot
 plt.show()
 # Display the first few rows of the DataFrame
