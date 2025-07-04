@@ -33,18 +33,33 @@ df = pd.read_csv('cleaned_mexico_real_estate.csv')
 # # Save the figure as an image
 # fig.write_image("images/mexico_map.png")
 
+#Summary statistics of the dataset
+#sumStat = df[["area_m2", "price_usd"]].describe()
+
+
 #determine the 10 most prevalent states in our dataset.
 top10 = df["state"].value_counts().head(10)
 
-plt.figure(figsize=(10, 6))
-#plt.bar(top10.index, top10.values, color='skyblue')
-
+plt.figure(figsize=(15, 10))
+# Visualize the top 10 states by count using a bar chart
+'''
 plt.bar(top10.index, top10.values, color='skyblue')
 plt.xlabel('State')
 plt.ylabel('Count')
 plt.title('Top 10 States by Count in Mexico Real Estate Dataset')
-plt.show()
-print(top10)
+plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
+'''
 
+#-----------------------------------------------------------------------------
+#Task 3: Create a histogram of "area_m2"
+# plt.hist(df["area_m2"],  color='lightblue', edgecolor='black')
+# plt.xlabel("Area [sq meters]")
+# plt.ylabel("Frequency") 
+# plt.title("Distribution of Home Sizes")
+# plt.savefig("images/area_distribution.png", dpi=300)  # Save at 300 DPI
+
+
+#show the plot
+plt.show()
 # Display the first few rows of the DataFrame
-print(df[["area_m2", "price_usd"]].describe())  # Display the top 10 states by count
+print(df.head())  
