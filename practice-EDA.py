@@ -60,10 +60,28 @@ plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
 
 #-----------------------------------------------------------------------------
 #Task 4: Create a horizontal boxplot of "area_m2"
-plt.boxplot(df["area_m2"], vert=False)
-plt.xlabel("Area [sq meters]")
-plt.title("Distribution of Home Sizes") 
-plt.savefig("images/area_boxplot.png", dpi=300)  # Save at 300 DPI
+# plt.boxplot(df["area_m2"], vert=False)
+# plt.xlabel("Area [sq meters]")
+# plt.title("Distribution of Home Sizes") 
+# plt.savefig("images/area_boxplot.png", dpi=300)  # Save at 300 DPI
+
+
+#-----------------------------------------------------------------------------
+#Task5: Create a histogram and boxplot of "price_usd"
+# plt.hist(df["price_usd"], color='lightblue', edgecolor='black'
+#          )
+# plt.xlabel("Price [USD]")
+# plt.ylabel("Frequency")
+# plt.title("Distribution of Home Prices")
+# plt.savefig("images/price_distribution.png", dpi=300)  # Save at 300
+
+# Create a horizontal boxplot of "price_usd"
+plt.boxplot(df["price_usd"], vert=False)
+plt.xlabel("Price [USD]")
+plt.title("Distribution of Home Prices")
+plt.savefig("images/price_boxplot.png", dpi=300)  # Save at 300 DPI
+
+#-----------------------------------------------------------------------------
 #show the plot
 plt.show()
 # Display the first few rows of the DataFrame

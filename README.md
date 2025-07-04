@@ -38,10 +38,19 @@ Task 1: Visualize the locations usig lat and lon using a scatter plot on top of 
 ![Mexico Real Estate Map](./images/mexico_map.png)
 
 Task 2: Determine the 10 most prevalent states in our dataset and visualize it
+
 ![Top 10 states](./images/topstates.png)
 
 Task 3: Create a histogram of "area_m2". Make sure that the x-axis has the label "Area [sq meters]", the y-axis has the label "Frequency", and the plot has the title "Distribution of Home Sizes".
+
 ![Area Distribution](./images/area_distribution.png)
 
 TASK 4: Create a horizontal boxplot of "area_m2". Make sure that the x-axis has the label "Area [sq meters]" and the plot has the title "Distribution of Home Sizes". How is the distribution and its left skew represented differently here than in your histogram?
+
 ![Area Boxplot](./images/area_boxplot.png)
+
+TASK 5: Create a histogram of "price_usd" and a horizontal boxplot of "price_usd"
+
+![Price Distibution](/images/price_distribution.png)
+
+![price Boxplot](/images/price_boxplot.png)
