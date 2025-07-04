@@ -37,3 +37,4 @@ Task 1: Visualize the locations usig lat and lon using a scatter plot on top of 
 
 ![Mexico Real Estate Map](images/mexico_map.png)
 
+Task 2: Determine the 10 most prevalent states in our dataset and visualize it

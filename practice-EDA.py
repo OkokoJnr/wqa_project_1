@@ -33,6 +33,18 @@ df = pd.read_csv('cleaned_mexico_real_estate.csv')
 # # Save the figure as an image
 # fig.write_image("images/mexico_map.png")
 
+#determine the 10 most prevalent states in our dataset.
+top10 = df["state"].value_counts().head(10)
+
+plt.figure(figsize=(10, 6))
+#plt.bar(top10.index, top10.values, color='skyblue')
+
+plt.bar(top10.index, top10.values, color='skyblue')
+plt.xlabel('State')
+plt.ylabel('Count')
+plt.title('Top 10 States by Count in Mexico Real Estate Dataset')
+plt.show()
+print(top10)
 
 # Display the first few rows of the DataFrame
-print(df["state"].unique())
+print(df[["area_m2", "price_usd"]].describe())  # Display the top 10 states by count
