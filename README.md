@@ -64,3 +64,5 @@ Which state has the most expensive real estate market?
         We know in which state each house is located thanks to the "state" column. The next step is to divide our dataset into groups (one per state) and calculate the mean house price for each group.
 
 Task 1 Use the groupby method to create a Series named mean_price_by_state, where the index contains each state in the dataset and the values correspond to the mean house price for that state. Make sure your Series is sorted from highest to lowest mean price, and then visualize
+![Average Home price by state using matplotlib](/images/average_price_by_state_m.png)
+![Average Home price by state using pandas](/images/average_price_by_state_p.png)
