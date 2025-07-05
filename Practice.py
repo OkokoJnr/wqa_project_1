@@ -1,7 +1,7 @@
 import pandas as pd
-df1 = pd.read_csv('mexico-real-estate-1.csv')
-df2 = pd.read_csv('mexico-real-estate-2.csv')
-df3 = pd.read_csv('mexico-real-estate-3.csv')
+df1 = pd.read_csv('data/mexico-real-estate-1.csv')
+df2 = pd.read_csv('data/mexico-real-estate-2.csv')
+df3 = pd.read_csv('data/mexico-real-estate-3.csv')
 
 #Task1: Cleaning df1
 # 1. Remove NaN values
@@ -34,5 +34,5 @@ df3["state"] = df3["place_with_parent_names"].str.split("|", expand=True)[2]  # 
 df3.drop(columns=["place_with_parent_names"], inplace=True)  # Drop place_with_parent_names column
 
 df = pd.concat([df1, df2, df3], ignore_index=True)  # Concatenate df1, df2, df3 into a new DataFrame
-df.to_csv('cleaned_mexico_real_estate.csv', index=False)  # save the new DataFrame as a CSV file
+df.to_csv('data/cleaned_mexico_real_estate.csv', index=False)  # save the new DataFrame as a CSV file
 print(df.head())  

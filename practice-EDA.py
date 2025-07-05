@@ -8,7 +8,7 @@ import plotly.io as pio
 # Recommended setting
 pio.renderers.default = "browser"
 # Load the cleaned dataset
-df = pd.read_csv('cleaned_mexico_real_estate.csv')
+df = pd.read_csv('data/cleaned_mexico_real_estate.csv')
 
 #Task 1: Using Scatter Mapbox plot
 # fig = px.scatter_map(
@@ -42,13 +42,11 @@ top10 = df["state"].value_counts().head(10)
 
 plt.figure(figsize=(8, 8))
 # Visualize the top 10 states by count using a bar chart
-'''
 plt.bar(top10.index, top10.values, color='skyblue')
 plt.xlabel('State')
 plt.ylabel('Count')
 plt.title('Top 10 States by Count in Mexico Real Estate Dataset')
 plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
-'''
 
 #-----------------------------------------------------------------------------
 #Task 3: Create a histogram of "area_m2"
@@ -83,7 +81,9 @@ plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
 
 #-----------------------------------------------------------------------------
 #Groupby State
+df = df[df['state'].apply(lambda x: isinstance(x, str))].copy()
 mean_price_by_state = df.groupby("state")["price_usd"].mean().sort_values(ascending=True)
+print(mean_price_by_state)
 # Create a horizontal bar chart of average home prices by state using Matplotlib
 plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
 # plt.xlabel('State')
@@ -100,15 +100,23 @@ plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
 
 #-------------------------------------------------------------------------------
 #Task 6: Calculate price per m2 and visualize
-df['price_per_m2'] = df['price_usd'] / df['area_m2']
-# Group by state and calculate the mean price per m2
-mean_price_per_m2_by_state = df.groupby("state")["price_per_m2"].mean().sort_values(ascending=True)
-# Create a horizontal bar chart of average price per m2 by state using Matplotlib
-mean_price_per_m2_by_state.plot(kind='barh', color='skyblue', ylabel='State', title='Average Price per m2 by State in Mexico', xlabel='Average Price per m2 [USD]', figsize=(10, 8))
-#save the figure as an image
-plt.savefig("images/average_price_per_m2_by_state.png", dpi=300)  # Save at 300 DPI
-#show the plot
-plt.show()
+# df['price_per_m2'] = df['price_usd'] / df['area_m2']
+# # Group by state and calculate the mean price per m2
+# mean_price_per_m2_by_state = df.groupby("state")["price_per_m2"].mean().sort_values(ascending=True)
+# # Create a horizontal bar chart of average price per m2 by state using Matplotlib
+# mean_price_per_m2_by_state.plot(kind='barh', color='skyblue', ylabel='State', title='Average Price per m2 by State in Mexico', xlabel='Average Price per m2 [USD]', figsize=(10, 8))
+# #save the figure as an image
+# plt.savefig("images/average_price_per_m2_by_state.png", dpi=300)  # Save at 300 DPI
 
+#-----------------------------------------------------------------------------
+#Task 7: Create a scatter plot of price vs area
+plt.scatter( df["price_usd"], df["area_m2"], alpha=0.5, color='blue')
+plt.xlabel("Area [sq meters]")
+plt.ylabel("Price [USD]")
+plt.title("Price vs Area of Homes in Mexico")  
+ 
+
+#show the plot
+#plt.show()
 # Display the first few rows of the DataFrame
 #print(df.head())  
