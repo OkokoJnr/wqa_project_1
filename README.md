@@ -54,3 +54,13 @@ TASK 5: Create a histogram of "price_usd" and a horizontal boxplot of "price_usd
 ![Price Distibution](/images/price_distribution.png)
 
 ![price Boxplot](/images/price_boxplot.png)
+
+
+LOCATION OR SIZE: WHAT INFLUENCES HOUSE PRICES IN MEXICO?
+
+Research Question 1
+Which state has the most expensive real estate market?
+        Do housing prices vary by state? If so, which are the most expensive states for purchasing a home? During our exploratory data analysis, we used descriptive statistics like mean and median to get an idea of the "typical" house price in Mexico. Now, we need to break that calculation down by state and visualize the results.
+        We know in which state each house is located thanks to the "state" column. The next step is to divide our dataset into groups (one per state) and calculate the mean house price for each group.
+
+Task 1 Use the groupby method to create a Series named mean_price_by_state, where the index contains each state in the dataset and the values correspond to the mean house price for that state. Make sure your Series is sorted from highest to lowest mean price, and then visualize

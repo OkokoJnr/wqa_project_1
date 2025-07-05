@@ -76,13 +76,32 @@ plt.savefig("images/topstates.png", dpi=300)  # Save at 300 DPI
 # plt.savefig("images/price_distribution.png", dpi=300)  # Save at 300
 
 # Create a horizontal boxplot of "price_usd"
-plt.boxplot(df["price_usd"], vert=False)
-plt.xlabel("Price [USD]")
-plt.title("Distribution of Home Prices")
-plt.savefig("images/price_boxplot.png", dpi=300)  # Save at 300 DPI
+# plt.boxplot(df["price_usd"], vert=False)
+# plt.xlabel("Price [USD]")
+# plt.title("Distribution of Home Prices")
+# plt.savefig("images/price_boxplot.png", dpi=300)  # Save at 300 DPI
 
 #-----------------------------------------------------------------------------
+#Groupby State
+mean_price_by_state = df.groupby("state")["price_usd"].mean().sort_values(ascending=True)
+# Create a horizontal bar chart of average home prices by state using Matplotlib
+plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
+# plt.xlabel('State')
+# plt.ylabel('Average Price (USD)')
+# plt.title('Average Home Price by State in Mexico')
+# # Save the figure as an image
+# plt.savefig("images/average_price_by_state_m.png", dpi=300)  # Save at 300 DPI
+
+
+# Create a horizontal bar chart of average home prices by state using pandas
+mean_price_by_state.head(10).plot(kind='barh', color='skyblue', ylabel='State', title='Average Home Price by State in Mexico',xlabel='Average Price [USD]', figsize=(10, 8))
+# Save the figure as an image
+plt.savefig("images/average_price_by_state_p.png", dpi=300)  # Save at 300 DPI
+
+
+
 #show the plot
 plt.show()
+
 # Display the first few rows of the DataFrame
-print(df.head())  
+#print(df.head())  
