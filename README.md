@@ -63,6 +63,11 @@ Which state has the most expensive real estate market?
         Do housing prices vary by state? If so, which are the most expensive states for purchasing a home? During our exploratory data analysis, we used descriptive statistics like mean and median to get an idea of the "typical" house price in Mexico. Now, we need to break that calculation down by state and visualize the results.
         We know in which state each house is located thanks to the "state" column. The next step is to divide our dataset into groups (one per state) and calculate the mean house price for each group.
 
-Task 1 Use the groupby method to create a Series named mean_price_by_state, where the index contains each state in the dataset and the values correspond to the mean house price for that state. Make sure your Series is sorted from highest to lowest mean price, and then visualize
+Task 1: Use the groupby method to create a Series named mean_price_by_state, where the index contains each state in the dataset and the values correspond to the mean house price for that state. Make sure your Series is sorted from highest to lowest mean price, and then visualize
 ![Average Home price by state using matplotlib](/images/average_price_by_state_m.png)
 ![Average Home price by state using pandas](/images/average_price_by_state_p.png)
+
+
+Task 2: A better metric to look at would be price per m2. Determine Price_per_m2 and visualize. 
+
+![Average Price per m2 by state](/images/average_price_per_m2_by_state.png)

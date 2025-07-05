@@ -94,12 +94,19 @@ plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
 
 
 # Create a horizontal bar chart of average home prices by state using pandas
-mean_price_by_state.head(10).plot(kind='barh', color='skyblue', ylabel='State', title='Average Home Price by State in Mexico',xlabel='Average Price [USD]', figsize=(10, 8))
-# Save the figure as an image
-plt.savefig("images/average_price_by_state_p.png", dpi=300)  # Save at 300 DPI
+# mean_price_by_state.head(10).plot(kind='barh', color='skyblue', ylabel='State', title='Average Home Price by State in Mexico',xlabel='Average Price [USD]', figsize=(10, 8))
+# # Save the figure as an image
+# plt.savefig("images/average_price_by_state_p.png", dpi=300)  # Save at 300 DPI
 
-
-
+#-------------------------------------------------------------------------------
+#Task 6: Calculate price per m2 and visualize
+df['price_per_m2'] = df['price_usd'] / df['area_m2']
+# Group by state and calculate the mean price per m2
+mean_price_per_m2_by_state = df.groupby("state")["price_per_m2"].mean().sort_values(ascending=True)
+# Create a horizontal bar chart of average price per m2 by state using Matplotlib
+mean_price_per_m2_by_state.plot(kind='barh', color='skyblue', ylabel='State', title='Average Price per m2 by State in Mexico', xlabel='Average Price per m2 [USD]', figsize=(10, 8))
+#save the figure as an image
+plt.savefig("images/average_price_per_m2_by_state.png", dpi=300)  # Save at 300 DPI
 #show the plot
 plt.show()
 
