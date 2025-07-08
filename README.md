@@ -36,25 +36,31 @@ This section is for exploratory data analysis (EDA) of the cleaned dataset.
 Task 1: Visualize the locations usig lat and lon using a scatter plot on top of a map using the scatter_map from plotly library. 
 
 ![Mexico Real Estate Map](./images/mexico_map.png)
-
+*Figure 1: Mexico Real Estate Map*
 Task 2: Determine the 10 most prevalent states in our dataset and visualize it
 
 ![Top 10 states](./images/topstates.png)
+*Figure 2: Mexico Real Estate Top 10 states*
 
 Task 3: Create a histogram of "area_m2". Make sure that the x-axis has the label "Area [sq meters]", the y-axis has the label "Frequency", and the plot has the title "Distribution of Home Sizes".
 
 ![Area Distribution](./images/area_distribution.png)
+*Figure 3: Mexico Real Estate Area(m2) distribution*
 
 TASK 4: Create a horizontal boxplot of "area_m2". Make sure that the x-axis has the label "Area [sq meters]" and the plot has the title "Distribution of Home Sizes". How is the distribution and its left skew represented differently here than in your histogram?
 
 ![Area Boxplot](./images/area_boxplot.png)
+*Figure 4: Mexico Real Estate Distribution of Home sizes*
+
 
 TASK 5: Create a histogram of "price_usd" and a horizontal boxplot of "price_usd"
 
 ![Price Distibution](/images/price_distribution.png)
+*Figure 5: Mexico Real Estate Distribution of price(USD)*
+
 
 ![price Boxplot](/images/price_boxplot.png)
-
+*Figure 6: Mexico Real Estate Distribution of price(USD) using box plot*
 
 LOCATION OR SIZE: WHAT INFLUENCES HOUSE PRICES IN MEXICO?
 
@@ -65,12 +71,16 @@ Which state has the most expensive real estate market?
 
 Task 1: Use the groupby method to create a Series named mean_price_by_state, where the index contains each state in the dataset and the values correspond to the mean house price for that state. Make sure your Series is sorted from highest to lowest mean price, and then visualize
 ![Average Home price by state using matplotlib](/images/average_price_by_state_m.png)
-![Average Home price by state using pandas](/images/average_price_by_state_p.png)
+*Figure 7: Mexico Real Estate Distribution of price(USD) using matplotlib boxplot*
 
+![Average Home price by state using pandas](/images/average_price_by_state_p.png)
+*Figure 8: Mexico Real Estate Distribution of price(USD) using pandas boxplot*
 
 Task 2: A better metric to look at would be price per m2. Determine Price_per_m2 and visualize. 
 
 ![Average Price per m2 by state](/images/average_price_per_m2_by_state.png)
+*Figure 9: Mexico Real Estate Distribution of price_per_m2 across states*
+
 
 Research Question 2 -Is there a relationship between home size and price?
 
@@ -82,3 +92,15 @@ Research Question 2 -Is there a relationship between home size and price?
 
 How correlated is price and Area?
 The correlation between price and area 
+
+Determining the correlation for df_morelos and Distrito Federal.
+        Looking at the scatter plot and correlation coefficient, there's see a weak relationship between size and price. How should this be interpreted?
+
+![Relationship between Area and Price in Distrito](data/Distrito_price_vs_area.png)
+
+*Figure 1: Relationship between Area and Price in Distrito*
+
+![Relationship between Area and Price in Morelos](data/morelos_price_vs_area.png)
+*Figure 1: Relationship between Area and Price in Distrito*
+        One interpretation is that the relationship we see between size and price in many states doesn't hold true in the country's biggest and most economically powerful urban center because there are other factors that have a larger influence on price.
+

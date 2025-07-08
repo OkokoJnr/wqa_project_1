@@ -121,7 +121,34 @@ print(mean_price_by_state)
 correlation = df["area_m2"].corr(df["price_usd"])
 print(f"Correlation between area and price: {correlation:.4f}")
 
+#--------------Correlation for df_morelos and Distrito Federal-----------------------------
+df_morelos = df[df['state'] == 'Morelos']
+print(df_morelos.head())
+
+df_mexico_city = df[df['state']=="Distrito Federal"]
+
+# Calculate the Pearson correlation coefficient for Morelos
+distrito_pearson = df_mexico_city['area_m2'].corr(df_mexico_city['price_usd'])
+
+# Calculate the correlation for Distrito Federal
+morelos_pearson = df_mexico_city['area_m2'].corr(df_mexico_city['price_usd'])
+
+#Chart the relationship between area and price in Morelos
+plt.scatter(df_morelos["price_usd"], df_morelos["area_m2"], color='blue', label= f"Morelos with pearson coefficient of ({morelos_pearson:.4f})")
+
+plt.scatter(df_mexico_city["price_usd"], df_mexico_city["area_m2"], color='red', label=f"Distrito Federal with pearson coefficient of ({distrito_pearson:.4f})")
+
+plt.xlabel("Area [sq meters]")
+plt.ylabel("Price [USD]")
+plt.title("Price vs Area of Homes in Distrito Federal")
+# Save the figure as an image
+plt.savefig("images/Distrito_morelos_price_vs_area.png", dpi=300)  # Save at 300 DPI
+
+
+#add a legend
+plt.legend()
 #show the plot
-#plt.show()
+plt.show()
+
 # Display the first few rows of the DataFrame
 #print(df.head())  
