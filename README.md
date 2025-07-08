@@ -88,18 +88,20 @@ Research Question 2 -Is there a relationship between home size and price?
         
         A scatter plot can be helpful when evaluating the relationship between two columns because it lets you see if two variables are correlated — in this case, if an increase in home size is associated with an increase in price.
 
-![relationsip between Area and Price](data/price_vs_area.png)
+![relationsip between Area and Price](images/price_vs_area.png)
 
 How correlated is price and Area?
 The correlation between price and area 
 
 Determining the correlation for df_morelos and Distrito Federal.
 
-        Looking at the scatter plot and correlation coefficient, there's see a weak relationship between size and price. How should this be interpreted?
-
 
 ![Relationship between Area and Price in Morelos and Distrito](images/Distrito_morelos_price_vs_area.png)
 *Figure 1: Relationship between Area and Price in Distrito and Morelos*
+       
+        Looking at the scatter plot and correlation coefficient,  a weak relationship exist between size and price in Distrito but not in Morelos?
+
+How should this be interpreted?
 
         One interpretation is that the relationship we see between size and price in many states doesn't hold true in the country's biggest and most economically powerful urban center because there are other factors that have a larger influence on price.
 
