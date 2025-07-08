@@ -72,22 +72,13 @@ Task 2: A better metric to look at would be price per m2. Determine Price_per_m2
 
 ![Average Price per m2 by state](/images/average_price_per_m2_by_state.png)
 
-Research Question 2
-        Is there a relationship between home size and price?
+Research Question 2 -Is there a relationship between home size and price?
 
         From previous question, it shos that the location of a home affects its price, but what about home size? Does the size of a house influence price? 
         
         A scatter plot can be helpful when evaluating the relationship between two columns because it lets you see if two variables are correlated — in this case, if an increase in home size is associated with an increase in price.
 
-        print("First data frame")
-print("df1 info:", df1.info() )
-print("df1 head:", df1.head())
-print()
-print("SECOND data frame")
-print("df2 info:", df2.info)
-print("df2 head:", df2.head())
-print()
-print("THIRD data frame")
-print("df3 info:", df3.info())
-print("df3 head:", df3.head())
-print("The end")
+![relationsip between Area and Price](data/price_vs_area.png)
+
+How correlated is price and Area?
+The correlation between price and area 

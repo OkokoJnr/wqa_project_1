@@ -9,8 +9,8 @@ df1.dropna(inplace=True)
 # 2. Transform price_usd column: Remove "$" and "," and convert to float
 df1["price_usd"] = (
     df1["price_usd"]
-    .str.replace("$", "") #remove dollar sign
-    .str.replace(",", "") #remove commas
+    .str.replace("$", "", regex=False) #remove dollar sign
+    .str.replace(",", "", regex=False) #remove commas
     .astype(float)  #convert to float
     ) 
 

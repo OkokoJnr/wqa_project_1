@@ -85,7 +85,7 @@ df = df[df['state'].apply(lambda x: isinstance(x, str))].copy()
 mean_price_by_state = df.groupby("state")["price_usd"].mean().sort_values(ascending=True)
 print(mean_price_by_state)
 # Create a horizontal bar chart of average home prices by state using Matplotlib
-plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
+#plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
 # plt.xlabel('State')
 # plt.ylabel('Average Price (USD)')
 # plt.title('Average Home Price by State in Mexico')
@@ -110,11 +110,16 @@ plt.barh(mean_price_by_state.index, mean_price_by_state.values, color='skyblue')
 
 #-----------------------------------------------------------------------------
 #Task 7: Create a scatter plot of price vs area
-plt.scatter( df["price_usd"], df["area_m2"], alpha=0.5, color='blue')
-plt.xlabel("Area [sq meters]")
-plt.ylabel("Price [USD]")
-plt.title("Price vs Area of Homes in Mexico")  
- 
+# plt.scatter( df["price_usd"], df["area_m2"], alpha=0.5, color='blue')
+# plt.xlabel("Area [sq meters]")
+# plt.ylabel("Price [USD]")
+# plt.title("Price vs Area of Homes in Mexico")  
+# plt.savefig("images/price_vs_area.png", dpi=300)  # Save at 300 DPI
+
+#------------------------------CORRELATION---------------------------------------------
+# Determine the correlation between area and price
+correlation = df["area_m2"].corr(df["price_usd"])
+print(f"Correlation between area and price: {correlation:.4f}")
 
 #show the plot
 #plt.show()
